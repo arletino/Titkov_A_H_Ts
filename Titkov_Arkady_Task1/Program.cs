@@ -174,9 +174,9 @@ void HomeTask1_8()
         Console.WriteLine($"Четные числа от 0 до {ab} :");
         if (ab > 0) 
         {
-                for (int i = 1; i < ab; i++)
+                for (int i = 1; i <= ab; i++)
                         {
-                                if (i % 2 == 0) Console.Write($"{i}");
+                                if (i % 2 == 0) Console.Write($"{i} ");
                         }
 
         }
@@ -184,9 +184,10 @@ void HomeTask1_8()
         {
                 for (int i = ab; i < 0; i++)
                         {
-                                if (i % 2 == 0) Console.Write($"{i}");
+                                if (i % 2 == 0) Console.Write($"{i} ");
                         }
         }
+System.Console.WriteLine();
 Thread.Sleep(2000);
 Console.Write("Нажмите любую клавишу для возврата в меню выбора задач");
 ConsoleKeyInfo key1;
