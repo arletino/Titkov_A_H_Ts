@@ -1,0 +1,84 @@
+﻿Console.WriteLine("enter m: ");
+
+int m = int.Parse(Console.ReadLine());
+
+Console.WriteLine("enter n: ");
+
+int n = int.Parse(Console.ReadLine());
+
+int[,] GetArray(int m, int n)
+
+{
+    int[,] array = new int[m, n];
+    Random rnd = new Random();
+    
+    for (int i = 0; i < array.GetLength(0); i++)
+        {
+            for (int j = 0; j < array.GetLength(1); j++)
+                {
+                    array[i, j] = rnd.Next(1, 10);
+                }
+        }
+    return array;
+}
+
+int [] minSearch(int[,] array)
+{
+    int [] minElementInArray = new int[3];
+    minElementInArray[0] = array[0,0];
+
+    for (int i = 0; i < array.GetLength(0); i++)
+        {
+            for (int j = 0; j < array.GetLength(1); j++)
+                {
+                    if (minElementInArray[0] > array[i,j])
+
+                        {
+                            minElementInArray[0] = array[i,j];
+                            minElementInArray[1] = i;
+                            minElementInArray[2] = j;
+                        }  
+                }
+        }
+        return minElementInArray;
+}
+
+int[,] UpdateArray(int [] array, int[,] originalArray)
+{
+    int [,] updateArray = new int[originalArray.GetLength(0)-1,originalArray.GetLength(1)-1];
+    int k = 0;
+        for (int i = 0; i < updateArray.GetLength(0); i++)
+            {
+                int l =0;        
+                if (i == array[1]) k++;
+                for (int j = 0; j < updateArray.GetLength(1); j++)
+                    {
+                        if (j == array[2]) l++; 
+                        
+                        updateArray[i,j] = originalArray[k,l];  
+                        l++; 
+                    }
+                k++;
+            }
+        return updateArray;
+}
+
+
+void PrintArray(int[,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+           Console.Write($"{array[i,j]} ");
+        }
+       Console.WriteLine();
+    } 
+    
+}
+
+int [,] newArray = GetArray(m,n);
+PrintArray(newArray);
+int [] searchMin = minSearch(newArray);
+System.Console.ReadLine();
+PrintArray(UpdateArray(searchMin,newArray));

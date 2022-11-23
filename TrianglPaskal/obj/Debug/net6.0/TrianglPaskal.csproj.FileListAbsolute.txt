@@ -1,0 +1,15 @@
+/home/atitkov/Documents/C#/TrianglPaskal/bin/Debug/net6.0/TrianglPaskal
+/home/atitkov/Documents/C#/TrianglPaskal/bin/Debug/net6.0/TrianglPaskal.deps.json
+/home/atitkov/Documents/C#/TrianglPaskal/bin/Debug/net6.0/TrianglPaskal.runtimeconfig.json
+/home/atitkov/Documents/C#/TrianglPaskal/bin/Debug/net6.0/TrianglPaskal.dll
+/home/atitkov/Documents/C#/TrianglPaskal/bin/Debug/net6.0/TrianglPaskal.pdb
+/home/atitkov/Documents/C#/TrianglPaskal/obj/Debug/net6.0/TrianglPaskal.csproj.AssemblyReference.cache
+/home/atitkov/Documents/C#/TrianglPaskal/obj/Debug/net6.0/TrianglPaskal.GeneratedMSBuildEditorConfig.editorconfig
+/home/atitkov/Documents/C#/TrianglPaskal/obj/Debug/net6.0/TrianglPaskal.AssemblyInfoInputs.cache
+/home/atitkov/Documents/C#/TrianglPaskal/obj/Debug/net6.0/TrianglPaskal.AssemblyInfo.cs
+/home/atitkov/Documents/C#/TrianglPaskal/obj/Debug/net6.0/TrianglPaskal.csproj.CoreCompileInputs.cache
+/home/atitkov/Documents/C#/TrianglPaskal/obj/Debug/net6.0/TrianglPaskal.dll
+/home/atitkov/Documents/C#/TrianglPaskal/obj/Debug/net6.0/ref/TrianglPaskal.dll
+/home/atitkov/Documents/C#/TrianglPaskal/obj/Debug/net6.0/TrianglPaskal.pdb
+/home/atitkov/Documents/C#/TrianglPaskal/obj/Debug/net6.0/TrianglPaskal.genruntimeconfig.cache
+/home/atitkov/Documents/C#/TrianglPaskal/obj/Debug/net6.0/refint/TrianglPaskal.dll

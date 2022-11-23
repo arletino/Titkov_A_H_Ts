@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FL67ukbtqleCJUY+vlAgSuyMIMV0cM+bWGTwuKnf3yWBPmr7E3ijNMhA4mpuX+2kW54QYQcftJgL1RgHdyR+5A==",
+  "success": true,
+  "projectFilePath": "/home/atitkov/Documents/C#/Seminar/Seminar.csproj",
+  "expectedPackageFiles": [
+    "/home/atitkov/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/atitkov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/atitkov/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.11/microsoft.netcore.app.host.linux-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

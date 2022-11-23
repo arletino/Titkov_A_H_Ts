@@ -1,0 +1,79 @@
+Задача 62. Напишите программу, которая заполнит спирально массив 4 на 4.
+Например, на выходе получается вот такой массив:
+01 02 03 04
+12 13 14 05
+11 16 15 06
+10 09 08 07
+
+Console.Clear();
+int[,] GetArray(int m, int n)
+{
+    Console.Clear();
+    int temp = 0;
+    int[,] array = new int[m, n];
+    int j = 0;
+    int i = 0;
+    int k = 0;
+    while(temp < array.GetLength(0)*array.GetLength(1))
+        {
+            if (i == k && j < n-1 && temp < array.GetLength(0)*array.GetLength(1)) 
+                {   
+                    array[i,j] = temp;
+                    Console.SetCursorPosition(j*4,i*2);
+                    System.Console.Write($"{array[i,j].ToString("D2")} ");
+                    temp ++;
+                    j++;           
+                }        
+            if (i < m && j == n-1 && temp < array.GetLength(0)*array.GetLength(1)) 
+                {
+                    array[i,j] = temp;
+                    Console.SetCursorPosition(j*4,i*2);
+                    System.Console.Write($"{array[i,j].ToString("D2")} ");
+                    temp ++;
+                    i++;
+                }
+                    
+            if (i == m-1 && j > k && temp < array.GetLength(0)*array.GetLength(1)) 
+                {
+                    array[i,j] = temp;
+                    Console.SetCursorPosition(j*4,i*2);
+                    System.Console.Write($"{array[i,j].ToString("D2")} ");         
+                    temp ++;
+                    j--;
+                }
+            if (i > k && j == k && temp < array.GetLength(0)*array.GetLength(1))
+                {
+                    array[i,j] = temp;
+                    Console.SetCursorPosition(j*4,i*2);
+                    System.Console.Write($"{array[i,j].ToString("D2")} ");
+                    temp ++;
+                    i--;
+                }       
+            if (i == k && j == k && temp < array.GetLength(0)*array.GetLength(1))
+                {
+                    k++;
+                    i++;
+                    j++;
+                    m--;
+                    n--;
+                }
+            //PrintArray(array);
+            //System.Console.WriteLine($"{i}, {j}, {k}");
+            Thread.Sleep(200);
+        }
+    Console.SetCursorPosition(0,array.GetLength(0)*2+1);  
+    return array;
+}
+void PrintArray(int[,] array)
+
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+           Console.Write($"{array[i,j].ToString("D2")} ");
+        }
+       Console.WriteLine();
+    }   
+}
+GetArray(10,10);*/

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B8QLpA0p8YY9KPF/NZ8A14WAMUvfEVGVwIb/hYtx55cxmobXaPmrAdDgtwBWd8KuH3xs5lNF/4Y8F9tx3ML/ug==",
+  "success": true,
+  "projectFilePath": "/home/atitkov/Documents/C#/Titkov_Arkady_Task1/teask/teask.csproj",
+  "expectedPackageFiles": [
+    "/home/atitkov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5BG8+uJNhxTU45NnuXATLuqNY1GTz673ueCY+Ja7JLBOzbYjlEDW8V11Q0smh7MRxwGdIkW9m2ibntMrghN3gQ==",
+  "success": true,
+  "projectFilePath": "/home/atitkov/Documents/C#/Titkov_Arkady_Task2/Titkov_Arkady_Task2.csproj",
+  "expectedPackageFiles": [
+    "/home/atitkov/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/atitkov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/atitkov/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.11/microsoft.netcore.app.host.linux-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

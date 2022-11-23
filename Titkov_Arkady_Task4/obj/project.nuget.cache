@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wsXODfjMuvKWv9P2LYys9h8JWlZN2QXWHKii4XFZrYQ0+CW64lmTqLz8ozcL2BhVIBY4qelOigLhYylQWAuENw==",
+  "success": true,
+  "projectFilePath": "/home/atitkov/Documents/C#/Seminar/Titkov_Arkady_Task4/Titkov_Arkady_Task4.csproj",
+  "expectedPackageFiles": [
+    "/home/atitkov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

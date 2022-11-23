@@ -1,0 +1,15 @@
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/obj/Debug/net6.0/Titkov_Arkady_Task5.csproj.AssemblyReference.cache
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/obj/Debug/net6.0/Titkov_Arkady_Task5.GeneratedMSBuildEditorConfig.editorconfig
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/obj/Debug/net6.0/Titkov_Arkady_Task5.AssemblyInfoInputs.cache
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/obj/Debug/net6.0/Titkov_Arkady_Task5.AssemblyInfo.cs
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/obj/Debug/net6.0/Titkov_Arkady_Task5.csproj.CoreCompileInputs.cache
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/bin/Debug/net6.0/Titkov_Arkady_Task5
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/bin/Debug/net6.0/Titkov_Arkady_Task5.deps.json
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/bin/Debug/net6.0/Titkov_Arkady_Task5.runtimeconfig.json
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/bin/Debug/net6.0/Titkov_Arkady_Task5.dll
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/bin/Debug/net6.0/ref/Titkov_Arkady_Task5.dll
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/bin/Debug/net6.0/Titkov_Arkady_Task5.pdb
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/obj/Debug/net6.0/Titkov_Arkady_Task5.dll
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/obj/Debug/net6.0/ref/Titkov_Arkady_Task5.dll
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/obj/Debug/net6.0/Titkov_Arkady_Task5.pdb
+/home/atitkov/Documents/C#/Titkov_Arkady_Task5/obj/Debug/net6.0/Titkov_Arkady_Task5.genruntimeconfig.cache

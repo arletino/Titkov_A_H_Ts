@@ -1,0 +1,15 @@
+/home/atitkov/Documents/C#/Seminar/bin/Debug/net6.0/Seminar
+/home/atitkov/Documents/C#/Seminar/bin/Debug/net6.0/Seminar.deps.json
+/home/atitkov/Documents/C#/Seminar/bin/Debug/net6.0/Seminar.runtimeconfig.json
+/home/atitkov/Documents/C#/Seminar/bin/Debug/net6.0/Seminar.dll
+/home/atitkov/Documents/C#/Seminar/bin/Debug/net6.0/Seminar.pdb
+/home/atitkov/Documents/C#/Seminar/obj/Debug/net6.0/Seminar.csproj.AssemblyReference.cache
+/home/atitkov/Documents/C#/Seminar/obj/Debug/net6.0/Seminar.GeneratedMSBuildEditorConfig.editorconfig
+/home/atitkov/Documents/C#/Seminar/obj/Debug/net6.0/Seminar.AssemblyInfoInputs.cache
+/home/atitkov/Documents/C#/Seminar/obj/Debug/net6.0/Seminar.AssemblyInfo.cs
+/home/atitkov/Documents/C#/Seminar/obj/Debug/net6.0/Seminar.csproj.CoreCompileInputs.cache
+/home/atitkov/Documents/C#/Seminar/obj/Debug/net6.0/Seminar.dll
+/home/atitkov/Documents/C#/Seminar/obj/Debug/net6.0/ref/Seminar.dll
+/home/atitkov/Documents/C#/Seminar/obj/Debug/net6.0/Seminar.pdb
+/home/atitkov/Documents/C#/Seminar/obj/Debug/net6.0/Seminar.genruntimeconfig.cache
+/home/atitkov/Documents/C#/Seminar/obj/Debug/net6.0/refint/Seminar.dll
